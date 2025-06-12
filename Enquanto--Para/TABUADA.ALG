@@ -13,6 +13,6 @@ Inicio
               leia (x)
       para i de 1 ate 10 faca
            y <- x * i
-           escreval (x:2, "X", i:2, "=", y:2)
+           escreval (x, " X", i, " =", y)
       fimpara
 Fimalgoritmo
