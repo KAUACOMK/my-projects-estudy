@@ -1,2 +1,2 @@
 # my-projects-estudy
-meu estudo de algoritimos
+!!!!!!ESTUDO DE ALGARITIMOS E LOGICA!!!!!!

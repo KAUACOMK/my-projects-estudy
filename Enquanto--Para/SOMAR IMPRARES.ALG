@@ -19,11 +19,14 @@ Inicio
       maior <- y
       menor <- x
    fimse
-   // Para calcular os numeros impares ente o menor e maior
+
+
    soma <- 0
-   // Soma dos ímpares entre menor e maior
+   //para nao pegar o primeiro numero pois so queremos o entre eles
    i <- menor + 1
+   // Para calcular os numeros impares entre o menor e maior
    enquanto i < maior faca
+      // Soma dos ímpares entre menor e maior
       se i % 2 <> 0 entao
          soma <- soma + i
       fimse
