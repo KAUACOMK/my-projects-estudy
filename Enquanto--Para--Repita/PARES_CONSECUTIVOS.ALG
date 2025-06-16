@@ -11,22 +11,19 @@ Inicio
    escreva ("Digite um numero inteiro: ")
    leia (x)
 
-   i <- 1
-   repita
-      soma <-0
-      para i de 1 ate 5 passo 1 faca
-         se x%2 = 0 entao
-            soma <- soma + x
-            x <- x + 2
-         senao
-            soma <- x + 1
-            x <- x + 3
-         fimse
+   enquanto x <> 0 faca
+      soma <- 0
+      se x%2 <> 0 entao
+         x <- x + 1
+      fimse
+      para i de 1 ate 5 faca
+         soma <- soma + x
+         x <- x + 2
       fimpara
-      escreval ("SOMA =", soma)
+      escreval ("soma =", soma)
       escreval ("Digite um numero inteiro: ")
       leia (x)
-   ate x = 0
+   fimenquanto
 
 
 Fimalgoritmo
