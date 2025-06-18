@@ -15,9 +15,9 @@ Algoritmo "experiencias"
 // Autor(a)    : KAUA
 // Data atual  : 6/18/2025
 Var
-   n, cobaias, coelhos, ratos, sapos, totalCobaias : inteiro
-   coelho%s, rato%s, sapo%s : real
-   tipoCobais, C, R, S : caractere
+   n, i, cobaias, coelhos, ratos, sapos, totalCobaias : inteiro
+   porCoelhos, porRatos, porSapos : real
+   tipoCobaias: caractere
 
 
 Inicio
@@ -30,50 +30,52 @@ Inicio
    ratos <- 0
    sapos <- 0
    totalCobaias <- 0
-   coelhos% <- 0
-   sapos% <- 0
-   ratos% <- 0
+   porCoelhos <- 0
+   porSapos <- 0
+   porRatos <- 0
+   
    para i de 1 ate n faca
-      escreva ("Quantidade de cobaias")
+      escreva ("Quantidade de cobaias: ")
       leia (cobaias)
-      escreva ("Tipo de cobaia")
+      escreva ("Digite o tipo de cobaia (C, R ou S): ")
       leia (tipoCobaias)
+      tipoCobaias <- maiusc(tipoCobaias)
 
-      se cobaias = "C" entao
+      se tipoCobaias = "C" entao
          coelhos <- coelhos + cobaias
       senao
-         se cobaias = "R" entao
+         se tipoCobaias = "R" entao
             ratos <- ratos + cobaias
          senao
-            se cobaias = "S" entao
+            se tipoCobaias = "S" entao
                sapos <- sapos + cobaias
             fimse
          fimse
       fimse
-      
-      totalCobais <- totalcobaias + cobaias
-      
+      totalCobaias <- totalcobaias + cobaias
    fimpara
-   coelhos% <- coelhos / totalCobaias
-   sapos% <- sapos / totalCobaias
-   ratos% <- ratos / totalCobaias
+
+   porCoelhos <- (coelhos / totalCobaias) * 100
+   porSapos <- (sapos / totalCobaias) * 100
+   porRatos <- (ratos / totalCobaias) * 100
+
    //relatorio final
 
-   escreva ("RELATORIO FINAL:")
+   escreval ("RELATORIO FINAL:")
 
-   escreva ("Total:", totalCobaias)
+   escreval ("Total:", totalCobaias, " cobaias")
 
-   escreva ("Total de coelhos:", coelhos)
+   escreval ("Total de coelhos:", coelhos)
 
-   escreva ("Total de ratos:", ratos)
+   escreval ("Total de ratos:", ratos)
 
-   escreva ("Total de sapos:", sapos)
+   escreval ("Total de sapos:", sapos)
 
-   escreva ("Percentual de coelhos:", coelho%s:4:2)
+   escreval ("Percentual de coelhos:", porCoelhos:4:2, "%")
 
-   escreva ("Percentual de ratos:", rato%s:4:2)
+   escreval ("Percentual de ratos:", porRatos:4:2, "%")
 
-   escreva ("Percentual de sapos:", sapo%s:4:2)
+   escreval ("Percentual de sapos:", porSapos:4:2, "%")
 
 
 Fimalgoritmo
