@@ -7,8 +7,8 @@ Algoritmo "dados_pessoas"
 Var
 
    n, i : inteiro
-   altura : vetor [0..99] de real
-   genero : vetor [0..99] de caractere
+   altura : vetor [0..10] de real
+   genero : vetor [0..10] de caractere
    menorAltura, maiorAltura, media, soma, cont, homens : real
 
 
@@ -22,6 +22,7 @@ Inicio
       leia (altura[i])
       escreva ("Genero da ", i + 1, "a pessoa:")
       leia (genero[i])
+      genero[i] <- maiusc(genero[i])
    fimpara
 
    menorAltura <- altura[0]
@@ -44,21 +45,24 @@ Inicio
    soma <- 0
    cont <- 0
    
-   para i de 1 ate n - 1 faca
+   para i de 0 ate n - 1 faca
       se genero[i] = "F" entao
       soma <- soma + altura[i]
       cont <- cont + 1
       fimse
    fimpara
+    se cont <> 0 entao
+    media <- soma / cont
+    senao
+    media <- 0
+    fimse
 
-   media <- soma / cont
-   
    homens <- 0
    homens <- n - cont
    
-   escreval ("Menor Altura = ", menorAltura)
-   escreval ("Maior Altura = ", maiorAltura)
-   escreval ("Meda das alturas das mulheres = ", media)
+   escreval ("Menor Altura = ", menorAltura:3:2)
+   escreval ("Maior Altura = ", maiorAltura:3:2)
+   escreval ("Media das alturas das mulheres = ", media:3:2)
    escreval ("Numero de homens ", homens)
 
 Fimalgoritmo
