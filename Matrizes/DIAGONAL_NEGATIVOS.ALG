@@ -31,9 +31,9 @@ Inicio
    fimpara
 
    escreval
-   
+
    soma <- 0
-   
+
    para i de 0 ate n - 1 faca
       para j de 0 ate n - 1 faca
          se mat[i,j] < 0 entao
@@ -42,5 +42,5 @@ Inicio
       fimpara
    fimpara
    escreva ("Quantidade de negativos = ", soma)
-   
+
 Fimalgoritmo
