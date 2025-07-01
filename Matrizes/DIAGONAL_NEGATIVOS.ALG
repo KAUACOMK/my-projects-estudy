@@ -42,4 +42,5 @@ Inicio
       fimpara
    fimpara
    escreva ("Quantidade de negativos = ", soma)
+   
 Fimalgoritmo
