@@ -19,46 +19,53 @@ Algoritmo "Matriz de Temperaturas"
 Var
    m, n, i, j : inteiro
    temp : vetor[0..9, 0..9] de real
-   maiorTemp, linhaMaior, colunaMaior, menorTemp : real
+   maiorTemp, linhaMaior, colunaMaior, menorTemp, mediaTemp, soma : real
 
 Inicio
 
    escreva ("Cidades: ")
    leia(m)
-
-   escreva ("Dias ")
+   escreva ("Dias: ")
    leia(n)
-
    escreval ("Temperaturas:")
-
    para i de 0 ate m - 1 faca
       escreval ("Cidade", i + 1, ": ")
       para j de 0 ate n - 1 faca
          leia (temp[i,j])
       fimpara
    fimpara
-
+   escreval
    escreval ("Menor temperatura por cidade:")
    para i de 0 ate m - 1 faca
       menorTemp <- temp[i,0]
-
       para j de 0 ate n - 1 faca
          se temp[i,j] < menorTemp entao
-            menortemp <- temp[i,j]
+            menorTemp <- temp[i,j]
          fimse
       fimpara
       escreval ("Cidade", i + 1, ": ", menorTemp)
    fimpara
-
+   escreval
    escreval ("Média de temperatura por dia:")
-   para i de 0 ate m - 1 faca
-      escreval ("Dia", i + 1, ": ")
-      para j de 0 ate n - 1 faca
-
+   para j de 0 ate n - 1 faca
+      mediaTemp <- 0
+      para i de 0 ate m - 1 faca
+         mediaTemp <- mediatemp + temp[i,j]
       fimpara
-      escreva ("Cidade", i + 1, ": ", linhaMenor)
+      mediaTemp <- mediaTemp / m
+      escreval ("Dia", j + 1, ": ", mediaTemp:3:2)
    fimpara
-
-
+   escreval
+   maiorTemp <- temp[0,0]
+   para i de 0 ate m - 1 faca
+      para j de 0 ate n - 1 faca
+         se temp[i,j] > maiorTemp entao
+            maiorTemp <- temp[i,j]
+            linhaMaior <- i
+            colunaMaior <- j
+         fimse
+      fimpara
+   fimpara
+   escreval ("Maior temperatura registrada: ", maiorTemp:4:1, " (Cidade", linhaMaior + 1, " Dia", colunaMaior + 1, ")")
 
 Fimalgoritmo
