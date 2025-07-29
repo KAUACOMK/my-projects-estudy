@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kauan\\Desktop\\Projetos estudo\\my-projects-estudy\\C#\\diagonal_negativos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB6939C-C747-4721-A3F9-8F49B03DE02E}|diagonal_negativos\\diagonal_negativos.csproj|c:\\users\\kauan\\desktop\\projetos estudo\\my-projects-estudy\\c#\\diagonal_negativos\\diagonal_negativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB6939C-C747-4721-A3F9-8F49B03DE02E}|diagonal_negativos\\diagonal_negativos.csproj|solutionrelative:diagonal_negativos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kauan\\Desktop\\Projetos estudo\\my-projects-estudy\\C#\\diagonal_negativos\\diagonal_negativos\\Program.cs",
+              "RelativeDocumentMoniker": "diagonal_negativos\\Program.cs",
+              "ToolTip": "C:\\Users\\kauan\\Desktop\\Projetos estudo\\my-projects-estudy\\C#\\diagonal_negativos\\diagonal_negativos\\Program.cs*",
+              "RelativeToolTip": "diagonal_negativos\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:01:08.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

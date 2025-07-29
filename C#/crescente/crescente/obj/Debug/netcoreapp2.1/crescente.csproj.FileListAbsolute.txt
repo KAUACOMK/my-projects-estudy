@@ -1,0 +1,14 @@
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.deps.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.runtimeconfig.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.runtimeconfig.dev.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.sourcelink.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.genruntimeconfig.cache

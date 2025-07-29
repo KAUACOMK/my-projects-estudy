@@ -1,0 +1,14 @@
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.deps.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.runtimeconfig.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.runtimeconfig.dev.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\bin\Debug\netcoreapp2.1\menor_de_tres.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.sourcelink.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\menor_de_tres\menor_de_tres\obj\Debug\netcoreapp2.1\menor_de_tres.genruntimeconfig.cache

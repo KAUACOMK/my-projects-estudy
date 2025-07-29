@@ -1,0 +1,14 @@
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\bin\Debug\netcoreapp2.1\Idades.deps.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\bin\Debug\netcoreapp2.1\Idades.runtimeconfig.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\bin\Debug\netcoreapp2.1\Idades.runtimeconfig.dev.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\bin\Debug\netcoreapp2.1\Idades.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\bin\Debug\netcoreapp2.1\Idades.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.sourcelink.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\Idades\Idades\obj\Debug\netcoreapp2.1\Idades.genruntimeconfig.cache

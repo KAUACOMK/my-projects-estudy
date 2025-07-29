@@ -1,0 +1,14 @@
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.sourcelink.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\bin\Debug\netcoreapp2.1\soma_impares.deps.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\bin\Debug\netcoreapp2.1\soma_impares.runtimeconfig.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\bin\Debug\netcoreapp2.1\soma_impares.runtimeconfig.dev.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\bin\Debug\netcoreapp2.1\soma_impares.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\bin\Debug\netcoreapp2.1\soma_impares.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\soma_impares\soma_impares\obj\Debug\netcoreapp2.1\soma_impares.genruntimeconfig.cache

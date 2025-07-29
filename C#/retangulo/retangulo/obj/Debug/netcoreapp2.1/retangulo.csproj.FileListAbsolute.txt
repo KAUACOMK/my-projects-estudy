@@ -1,0 +1,14 @@
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.csproj.AssemblyReference.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.AssemblyInfoInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.AssemblyInfo.cs
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.sourcelink.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.deps.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.runtimeconfig.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.runtimeconfig.dev.json
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\bin\Debug\netcoreapp2.1\retangulo.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.dll
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.pdb
+C:\Users\kauan\Desktop\Projetos estudo\my-projects-estudy\C#\retangulo\retangulo\obj\Debug\netcoreapp2.1\retangulo.genruntimeconfig.cache
